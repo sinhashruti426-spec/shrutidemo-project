@@ -1,3 +1,7 @@
-# shrutidemo-project
-This is my first Git Repository.
-My name is Shruti Sinha.
+# Python Basics Practice
+Thia repository contains practice code for python fundamentals:
+- Variables
+- data types
+- operators
+- type casting
+- user input
